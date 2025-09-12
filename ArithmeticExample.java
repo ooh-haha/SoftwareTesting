@@ -13,6 +13,8 @@ public class ArithmeticExample {
         // 사칙연산 수행
         System.out.println("a + b = " + (a + b));
         System.out.println("a - b = " + (a - b));
+        System.out.println("a * b = " + (a * b));
+        System.out.println("a % b = " + (a % b)); // 나머지 연산
 
         sc.close();
     }
